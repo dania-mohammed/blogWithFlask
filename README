@@ -1,1 +1,2 @@
 install flask : pip install flask 
+install WTF : pip install flask-wtf 
